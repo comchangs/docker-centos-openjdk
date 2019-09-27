@@ -28,10 +28,10 @@ Run with Docker Compose:
 
 Run with Docker run:
 
-    docker run parrotstream/centos-openjdk java -version
+    docker run comchangs/centos-openjdk java -version
 
 
 Available tags:
 
-- OpenJDK 8 ([8](https://github.com/parrot-stream/docker-centos-openjdk/blob/8/Dockerfile), [latest](https://github.com/parrot-stream/docker-centos-openjdk/blob/latest/Dockerfile))
-- OpenJDK 7 ([7](https://github.com/parrot-stream/docker-centos-openjdk/blob/7/Dockerfile))
+- OpenJDK 8 ([8](https://github.com/comchangs/docker-centos-openjdk/blob/8/Dockerfile), [latest](https://github.com/comchangs/docker-centos-openjdk/blob/latest/Dockerfile))
+- OpenJDK 7 ([7](https://github.com/comchangs/docker-centos-openjdk/blob/7/Dockerfile))

@@ -1,6 +1,6 @@
 FROM centos
 
-MAINTAINER Matteo Capitanio <matteo.capitanio@gmail.com>
+MAINTAINER Murry Jeong <comchangs@gmail.com>
 
 ENV JAVA_HOME /usr/lib/jvm/java-1.7.0-openjdk-1.7.0.151-2.6.11.1.el7_4.x86_64
  
