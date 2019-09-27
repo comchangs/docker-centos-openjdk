@@ -4,5 +4,5 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: parrotstream/centos-openjdk:8
+    image: comchangs/centos-openjdk:8
     container_name: centos-openjdk
