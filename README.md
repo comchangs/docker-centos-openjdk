@@ -8,17 +8,17 @@ This image adds [OpenJDK](http://openjdk.java.net/) to a base [**Centos**](https
 The *latest* tag of this image is build using the last available Centos Docker image and the last available Oracle JDK.
 You can pull it with:
 
-    docker pull parrotstream/centos-openjdk
+    docker pull comchangs/centos-openjdk
 
 
 You can also find other images based on different OpenJDK releases, using different tags in the following form:
 
-    docker pull parrotstream/centos-openjdk:[openjdk-release]
+    docker pull comchangs/centos-openjdk:[openjdk-release]
 
 
 For example, if you want a Centos with OpenJDK release 8 you can pull the image with:
 
-    docker pull parrotstream/centos-openjdk:8
+    docker pull comchangs/centos-openjdk:8
 
 
 Run with Docker Compose:
