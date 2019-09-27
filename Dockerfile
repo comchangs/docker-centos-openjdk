@@ -1,6 +1,6 @@
 FROM centos
 
-MAINTAINER Matteo Capitanio <matteo.capitanio@gmail.com>
+MAINTAINER Murry Jeong <comchangs@gmail.com>
 
 ENV JAVA_HOME /opt/java-se-9-ri/jdk-9/
 
