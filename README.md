@@ -33,7 +33,7 @@ Run with Docker run:
 
 Available tags:
 
-- OpenJDK 11 ([11](https://github.com/comchangs/docker-centos-openjdk/blob/11/Dockerfile), [latest](https://github.com/comchangs/docker-centos-openjdk/blob/latest/Dockerfile)
+- OpenJDK 11 ([11](https://github.com/comchangs/docker-centos-openjdk/blob/11/Dockerfile), [latest](https://github.com/comchangs/docker-centos-openjdk/blob/latest/Dockerfile))
 - OpenJDK 10 ([10](https://github.com/comchangs/docker-centos-openjdk/blob/10/Dockerfile))
 - OpenJDK 9 ([9](https://github.com/comchangs/docker-centos-openjdk/blob/9/Dockerfile))
 - OpenJDK 8 ([8](https://github.com/comchangs/docker-centos-openjdk/blob/8/Dockerfile))
