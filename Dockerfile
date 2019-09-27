@@ -1,6 +1,6 @@
 FROM centos
 
-MAINTAINER Matteo Capitanio <matteo.capitanio@gmail.com>
+MAINTAINER Murry Jeong <comchangs@gmail.com>
 
 ENV JAVA_VER  10
 ENV JAVA_FULL_VER 10.0.2
