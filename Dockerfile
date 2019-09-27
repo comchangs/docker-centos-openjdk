@@ -1,6 +1,6 @@
 FROM centos
 
-MAINTAINER Matteo Capitanio <matteo.capitanio@gmail.com>
+MAINTAINER Murry Jeong <comchangs@gmail.com>
 
 ENV JAVA_VER  11
 ENV JAVA_HOME /opt/jdk-$JAVA_VER/
